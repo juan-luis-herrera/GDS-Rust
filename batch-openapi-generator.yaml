@@ -1,0 +1,4 @@
+inputSpec: ../ServiceAPI/ServiceAPI-OpenAPI.yaml
+outputDir: ./ServiceAPIClient
+generatorName: rust
+packageName: ServiceAPIClient
