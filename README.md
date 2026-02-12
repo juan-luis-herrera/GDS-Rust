@@ -1,5 +1,9 @@
 # Greedy Decision System - GDS
 
+
+[![DOI](https://zenodo.org/badge/1135673696.svg)](https://doi.org/10.5281/zenodo.18622384)
+
+
 ## What is this repository?
 
 This is an implementation for the GDS system, as proposed in the Transactions on Services Computing paper, using Rust. It includes both the Rust client for the service API, and the GDS implementation itself.
